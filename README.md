@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B42C&width=600&lines=Hi,+I'm+%40Viet;Backend+Developer;Blockchain+Developer;Frontend+Developer;Building+scalable+systems+Microservices;Passionate+about+Web3+AI+Software(Web+Application)" alt="Typing SVG" />
 
-### 🚀 Hi 👋, I'm Hoa Duc Viet 
+# 🚀 Hi 👋, I'm Hoa Duc Viet 
 
-### 🔥 About Me  
+## 🔥 About Me  
 
 #### 🎯 Backend Engineer | Frontend Engineer | Blockchain Engineer | .Net Engineer  
 - 🔹 Passionate about **High-performance backend systems, Web3, and AI for Digital Assets**  
