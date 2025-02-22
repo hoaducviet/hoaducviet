@@ -6,8 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B42C&width=600&lines=Hi,+I'm+%40Viet;Backend+Developer;Blockchain+Developer;Frontend+Developer;Building+scalable+systems+Microservices;Passionate+about+Web3+AI+Software(Web+Application)" alt="Typing SVG" />
 
-## 🚀 Hi 👋, I'm Hoa Duc Viet 
-
+# 🚀 Hi 👋, I'm Hoa Duc Viet 
 
 ## 🔥 About Me  
 
@@ -40,14 +39,14 @@
 
 
 
-### 📊 Statics
+## 📊 Statics
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoaducviet&" alt="hoaducviet" />
 </div>
 
 
-### 📫 Social Media  
+## 📫 Social Media  
 
 <p align="center">
   <a href="https://github.com/hoaducviet" target="_blank">
