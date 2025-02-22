@@ -8,7 +8,7 @@
 
 # 🚀 Hi 👋, I'm Hoa Duc Viet 
 
-## 🔥 About Me  
+# 🔥 About Me  
 
 #### 🎯 Backend Engineer | Frontend Engineer | Blockchain Engineer | .Net Engineer  
 - 🔹 Passionate about **High-performance backend systems, Web3, and AI for Digital Assets**  
