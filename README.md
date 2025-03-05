@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on position **Blockchain Engineer**
 - 📚 Language **English, Japanes**
 - 👨‍💻 All of my projects are available at **[Github.com/hoaducviet](https://github.com/hoaducviet?tab=repositories)**
-- 📌 Projects **DEX in Microservices** | **Netflix** | **Prediction Price New Collection NFT** | **Smart Contract Market Token and NFT**
+- 📌 Projects **[DEX in Microservices](https://github.com/Decentralized-Exchange-Microservices)** | **Netflix** | **Prediction Price New Collection NFT** | **Smart Contract Market Token and NFT**
 
 ##
 ### 🛠️ Tech Stack  
